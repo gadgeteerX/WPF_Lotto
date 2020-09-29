@@ -1,0 +1,14 @@
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.csprojAssemblyReference.cache
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\App.g.cs
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto_MarkupCompile.cache
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\MainWindow.g.cs
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto_MarkupCompile.lref
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\bin\Debug\TEST27_WPF_Lotto.exe.config
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\bin\Debug\TEST27_WPF_Lotto.exe
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\bin\Debug\TEST27_WPF_Lotto.pdb
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\MainWindow.baml
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.g.resources
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.Properties.Resources.resources
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.csproj.GenerateResource.cache
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.exe
+C:\Users\wlee0\source\repos\TEST27_WPF_Lotto\TEST27_WPF_Lotto\obj\Debug\TEST27_WPF_Lotto.pdb
