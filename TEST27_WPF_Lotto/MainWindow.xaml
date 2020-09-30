@@ -63,11 +63,11 @@
             Text="0" FontSize="16" Margin="20"/>
 
         <Button x:Name="btnGenerate"  
-            Grid.Column="5" Grid.Row="5" Width="120" Grid.ColumnSpan="4"
+            Grid.Column="1" Grid.Row="5" Width="120" Grid.ColumnSpan="6"
             Content="Generate" FontSize="18" Click="btnGenerate_Click"
                 />
         <Button x:Name="btnReset"  
-            Grid.Column="5" Grid.Row="6" Width="120" Grid.ColumnSpan="4"
+            Grid.Column="1" Grid.Row="6" Width="120" Grid.ColumnSpan="6"
             Content="Reset" FontSize="18" Margin="0,20,0,0" Click="btnReset_Click"
                 />
         <Button x:Name="btnExit"  
